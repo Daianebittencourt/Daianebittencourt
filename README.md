@@ -11,7 +11,7 @@
   <div>
  <div>
   <a href="https://github.com/daianebittencourt">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianebittencourt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180cm" decoding="async" src="https://github-readme-stats-2gil-daianebittencourt.vercel.app/api?username=daianebittencourt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianebittencourt&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
