@@ -5,7 +5,6 @@
 - 🔭 Desenvolvedora Java Fullstack Junior
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 💬 Contate-me no e-mail daibittencourt2000@gmail.com 
-- 📫 LinkedIn: https://www.linkedin.com/in/daianebittencourtdasilva/
 - 📫 Conheça um pouco mais sobre mim: https://linktr.ee/daianebittencourtdasilva
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Terminus&color=black&size=25&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo!+:%29">
